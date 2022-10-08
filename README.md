@@ -1,7 +1,7 @@
 ### Hello and welcome 👋
 I'm a Frontend developer from Russian Federation.
 I mainly code in React and Node.js.
-I'm currently learning at [Hexlet](https//ru.hexlet.io)
+I'm currently learning at [Hexlet](https//ru.hexlet.io).
 
 <!--
 **anton2009danilov/anton2009danilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
