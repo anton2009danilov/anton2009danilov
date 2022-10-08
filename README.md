@@ -22,7 +22,7 @@ I study web technologies, create my own student projects, participate in student
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English (duh) | B1                                                                        |
+| English       | B1                                                                        |
 | Russian       | Native language                                                           |
 
 <!--
