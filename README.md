@@ -3,6 +3,24 @@ I'm a Frontend developer from Russian Federation.
 I mainly code in React and Node.js.
 I'm currently learning at [Hexlet](https//ru.hexlet.io).
 
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+- React
+- Node.js
+- HTML, CSS
+- SCSS
+- MySQL
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English (duh) | B1                                                                        |
+| Russian       | Native language                                                           |
+
 <!--
 **anton2009danilov/anton2009danilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
