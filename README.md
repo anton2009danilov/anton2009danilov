@@ -1,7 +1,6 @@
 ### Hello and welcome 🌞
 I'm a Frontend developer from Russian Federation.
 I mainly code in React and Node.js.
-I'm currently learning at [Hexlet](https//ru.hexlet.io) and working on 'Chat' project.
 
 ### What I do
 
