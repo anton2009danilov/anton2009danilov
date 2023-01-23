@@ -1,6 +1,7 @@
 ### Hello and welcome 🌞
 I'm a Frontend developer from Russian Federation.
 I mainly code in React and Node.js.
+Looking for a job as Frontend Junior developer.
 
 ### What I do
 
