@@ -2,8 +2,6 @@
 I'm a Frontend developer from Russian Federation.
 I mainly code in React and Node.js.
 
-Looking for a job as Frontend Junior developer.
-
 ### What I do
 
 I study web technologies, write student projects, participate in students groups projects.
