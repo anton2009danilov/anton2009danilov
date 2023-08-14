@@ -1,4 +1,4 @@
-### Hello and welcome 🌞
+### Hello and welcome
 I'm a Frontend developer from Russian Federation.
 I mainly code in React and Node.js.
 
@@ -17,7 +17,7 @@ I study web technologies, write student projects, participate in students groups
 - SCSS
 - MySQL
 
-### Languages 🌐
+### Languages
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
