@@ -4,7 +4,7 @@ I mainly code in React and Node.js.
 
 ### What I do
 
-I study web technologies, write student projects, participate in students groups projects.
+Work as frontend developer, study web technologies.
 
 ## My skills 📜
 
